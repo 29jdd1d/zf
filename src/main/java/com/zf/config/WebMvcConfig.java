@@ -34,7 +34,8 @@ public class WebMvcConfig implements WebMvcConfigurer {
                         "/webjars/**",
                         "/v2/api-docs",
                         "/swagger-ui.html",
-                        "/error"
+                        "/error",
+                        "/favicon.ico"
                 );
     }
 
